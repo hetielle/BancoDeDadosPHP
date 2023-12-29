@@ -2,12 +2,12 @@
 
 Projeto básico desenvolvido para a matéria de Linguagem de Programaçõa 2 em 2022, onde fazemos a conexão com o banco de dados e cadastros simples via PHP.
 
-## Funcionalidades:
+## 📋 Funcionalidades:
 
 - Conexão com Banco de Dados via PHP
 - Cadastros com PHP
 
-## Tecnologias utilizadas:
+## 🛠️ Tecnologias utilizadas:
 
 * PHP
 * HTML
